@@ -61,7 +61,7 @@ Unicore is a powerful enhancement utility tailored for GTA5 RP. It provides a sl
 *Displays players and vehicles with custom color codes.*
 
 **2. Radar & Hotkey Controls**  
-![Radar UI](https://www.nfkcheats.com/storage/products/screenshots/bd147593f51f2231b776dd1096a036bd.png)  
+![Radar UI](https://www.nfkcheats.com/storage/products/screenshots/4ec4fe71de62f97872cac230763fc067.png)  
 *Minimap-style radar showing real-time movement and hotkey toggles.*
 
 
